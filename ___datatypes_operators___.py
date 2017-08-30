@@ -52,8 +52,8 @@ print(-10 / -5 ) #2.0
 #print('10' / -5) #TypeError: unsupported operand type(s) for /: 'str' and 'int'
 #print('10' / '5') #TypeError: unsupported operand type(s) for /: 'str' and 'str'
 
-#Flat Division / Quotient
-print('___Flat Division / Quotient___')
+#Floor Division / Quotient
+print('___Floor Division / Quotient___')
 print(11 // 5) #2
 print(11.0 // 5) #2.0
 print(-11 // 5 ) #-3
